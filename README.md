@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.gyazo.com/4fa6564e41a8dbb832a1f407f8464a9d.png" width="350"/>
+</p>
+
 # KBRA
 
 A Coding Challenge for Kroll Bond Rating Agency Completed by John Nguyen
@@ -6,19 +10,23 @@ A Coding Challenge for Kroll Bond Rating Agency Completed by John Nguyen
 
 ---
 
-## 3 Step Setup
+## 4 Step Setup
 
 *Requirements* : [NodeJS v^6.0.0](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)
 
-**1. Download**
+**1. Download Repository**
 
-> git clone https://github.com/tehjawn/kbra.git
+> [Download](https://github.com/tehjawn/kbra/archive/master.zip) **-or-** git clone https://github.com/tehjawn/kbra.git
 
-**2. Install**
+**2. Navigate to Local Folder**
+
+> Navigate to directory via command line or terminal
+
+**3. Install Dependencies**
 
 > npm install
 
-**3. Run Webpack Dev Server**
+**4. Run Dev Server**
 
 > npm start
 
