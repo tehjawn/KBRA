@@ -10,6 +10,8 @@ A Coding Challenge for Kroll Bond Rating Agency Completed by John Nguyen
 
 ### [View In Person Questions](https://github.com/tehjawn/kbra/blob/master/InPersonQs.md)
 
+### [View the Google Drive Folder](https://drive.google.com/drive/u/0/folders/0B4L2bHrQgHD4enBHUGFEX2xNaDQ)
+
 ---
 
 ## 4 Step Setup
